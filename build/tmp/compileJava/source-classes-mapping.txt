@@ -1,0 +1,6 @@
+test/TestApp.java
+ test.TestApp
+ test.TestApp$Adapter
+ test.TestApp$Bean
+ test.TestApp$SuperAdapter
+ test.TestApp$SuperBean
